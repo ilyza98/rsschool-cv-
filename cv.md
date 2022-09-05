@@ -28,5 +28,6 @@ No experience
 ***************
 Education and courses
 * In 2020 year finished __Kazan Innovative University__: Civil Law
+* In 2022 year finished __Rolling Scopes School__ PRE-SCHOOl Course
 ***************
 English Level - B1
