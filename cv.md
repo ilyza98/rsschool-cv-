@@ -22,8 +22,6 @@ function multiply(a, b){
 * Less
 * JS
 * Figma
-* Adobe Photoshop
-* Bootstrap
 ***************
 ### Work experience
 No experience
@@ -31,4 +29,4 @@ No experience
 Education and courses
 * In 2020 year finished __Kazan Innovative University__: Civil Law
 ***************
-English Level - A2
+English Level - B1
