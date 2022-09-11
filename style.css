@@ -67,7 +67,17 @@ h5 {
     font-weight: 400;
 }
 
-.skills__list {
+.skills {
+    margin-bottom: 30px;
+}
+
+.list {
+    margin-top: 43px;
+    font-size: 10px;
+    padding-left: 10px;
+}
+
+.list {
     margin-top: 43px;
     font-size: 10px;
     padding-left: 10px;
@@ -134,6 +144,10 @@ h5 {
     padding-bottom: 24px;
 }
 
+.author__experience {
+    padding-bottom: 24px;
+}
+
 .experience {
     position: relative;
     letter-spacing: 10px;
@@ -151,5 +165,20 @@ h5 {
 
 .author__item {
     padding-top: 24px;
+}
+
+.code {
+    position: relative;
+    letter-spacing: 10px;
+}
+
+.code::after {
+    content: '';
+    position: absolute;
+    left: -40px;
+    top: 25px;
+    width: 51%;
+    height: 1px;
+    background: #000;
 }
 
